@@ -190,6 +190,8 @@ open ChinaTextbookStudy.xcodeproj
 
 ### 5. HarmonyOS 手机 / 平板 / PC 测试版
 
+完整的文件结构、开发环境、资源服务器搭建、构建安装和故障排查说明见 [鸿蒙 App README](apps/harmony/README.md)。
+
 测试包首次启动会从开发机下载完整课程资源（约 2.06 GB），安装完成后可离线使用。手机全屏固定横屏；平板和 PC 自适应窗口。
 
 1. 在开发机先准备 Web 页面壳：
